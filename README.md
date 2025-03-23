@@ -6,10 +6,7 @@ A React Native mobile application that fetches and displays products from the Fa
 ## 📱 App Preview
 
 <div align="center">
-  <img src="![1742750490800](https://github.com/user-attachments/assets/17eafd14-2935-4948-a202-136e6b791e3f)
-" alt="Home Screen" width="300" />
-  <img src="![1742750490794](https://github.com/user-attachments/assets/77bab244-24f0-4cce-b5ec-35c926758dab)
-" alt="Filtered Products" width="300" />
+  <a href="#"><img style="pointer-events: none" src="https://github.com/user-attachments/assets/77872e82-a379-406a-bff5-a93cb932b92e"></a>
 </div>
 
 ## ✨ Features
