@@ -6,8 +6,10 @@ A React Native mobile application that fetches and displays products from the Fa
 ## 📱 App Preview
 
 <div align="center">
-  <img src="screenshots/home_screen.png" alt="Home Screen" width="300" />
-  <img src="screenshots/filtered_products.png" alt="Filtered Products" width="300" />
+  <img src="![1742750490800](https://github.com/user-attachments/assets/17eafd14-2935-4948-a202-136e6b791e3f)
+" alt="Home Screen" width="300" />
+  <img src="![1742750490794](https://github.com/user-attachments/assets/77bab244-24f0-4cce-b5ec-35c926758dab)
+" alt="Filtered Products" width="300" />
 </div>
 
 ## ✨ Features
@@ -81,36 +83,12 @@ npx expo start
 # or
 npm start
 ```
-
-## 📷 Screenshots
-
-<div align="center">
-  <img src="![1742750490800](https://github.com/user-attachments/assets/538ec239-c7dd-4932-9bc3-daf2a6afa5ba)" alt="Product Detail" width="300" />
-  <img src="![1742750490784](https://github.com/user-attachments/assets/87dbf3e3-3948-46c5-8d2a-d686024da603)" alt="Loading State" width="300" />
-</div>
-
-## 🧠 Learning Outcomes
-
-This project demonstrates:
-- Using React hooks for state management and side effects
-- Integrating with external APIs in React Native
-- Creating reusable components
-- Implementing filters and search functionality
-- Custom styling and font integration
-- Responsive design for mobile devices
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgements
-
-- [FakeStore API](https://fakestoreapi.com/) for providing test data
-- [React Native Documentation](https://reactnative.dev/docs/getting-started)
-- [Expo Documentation](https://docs.expo.dev/)
-
 ---
 
 <div align="center">
-  <p>Made with ❤️ by [Your Name]</p>
+  <p>Made with ❤️ by Muhammad Azeem</p>
 </div>
