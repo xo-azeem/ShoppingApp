@@ -1,4 +1,3 @@
-// src/screens/HomeScreen.js
 import React, { useState, useEffect } from 'react';
 import { 
   View, 
@@ -20,12 +19,10 @@ const HomeScreen = () => {
   const [error, setError] = useState(null);
   const [activeFilter, setActiveFilter] = useState('all');
 
-  // Fetch data when component mounts
   useEffect(() => {
     const fetchProducts = async () => {
       try {
         setLoading(true);
-        // Get all products initially
         const response = await axios.get("https://fakestoreapi.com/products");
         setProducts(response.data);
         setFilteredProducts(response.data);
@@ -40,7 +37,6 @@ const HomeScreen = () => {
     fetchProducts();
   }, []);
 
-  // Function to filter products by category
   const filterProducts = (category) => {
     setActiveFilter(category);
     
@@ -111,7 +107,6 @@ const HomeScreen = () => {
   );
 };
 
-// Scrollable filter component
 const ScrollableFilter = ({ activeFilter, onFilterSelect }) => {
   const filters = [
     { id: 'all', label: 'All Products' },
